@@ -1,0 +1,40 @@
+{
+  "stocks": [
+    {
+      "id": "1",
+      "company": "Actalent",
+      "faceValue": "10",
+      "initialPrice": "100"
+    },
+    {
+      "id": "2",
+      "company": "Google",
+      "faceValue": "2",
+      "initialPrice": "800"
+    },
+    {
+      "id": "12",
+      "company": "FaceBook",
+      "faceValue": "10",
+      "initialPrice": "900"
+    },
+    {
+      "id": "14",
+      "company": "Instagram",
+      "faceValue": "90",
+      "initialPrice": "700"
+    },
+    {
+      "id": "15",
+      "company": "IBM",
+      "faceValue": "20",
+      "initialPrice": "900"
+    },
+    {
+      "id": "17",
+      "company": "Accelerize",
+      "faceValue": "200",
+      "initialPrice": "800"
+    }
+  ]
+}
